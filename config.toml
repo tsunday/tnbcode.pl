@@ -1,76 +1,67 @@
-baseURL = "https://example.com"
-languageCode = "en"
-DefaultContentLanguage = "en"
-title = "TNBCode - Tomasz Niedziela-Brach - Software Developer"
-theme = "anatole"
-summarylength = 10
-enableEmoji = true
+## Basic Configuration
+
+baseurl = "https://tnbcode.pl/"
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Tomasz Niedziela-Brach"
+title = "Tomasz Niedziela-Brach"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+# disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
+googleAnalytics = "XYZ"
 enableRobotsTXT = true
 
-# Enable Disqus
-#disqusShortname = ""
-
-# Google Analytics
-#googleAnalytics = "UA-123-45"
-
+## Site Settings
 [params]
-title = "TNBCode"
 author = "Tomasz Niedziela-Brach"
-description = "Tomasz Niedzial-Brach"
-profilePicture = "images/tnb-300x300.jpg"
-keywords = ""
-favicon = "favicons/"
-customCss = []
-customJs = []
-mainSections = ["post"]
-images = ["images/site-feature-image.png"]
-# Google Site Verification
-#googleSiteVerify = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
+intro = "Programmer"
+description = "Working remotely as a senior software developer @Idego. Writing about coding. Coding real-world solutions."
+authorimage = "tnb-300x300.jpg"
+dateformat = "Jan 2, 2006"
 
-## Math settings
-[params.math]
-enable = false  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
-use = "katex"  # options: "katex", "mathjax". default is "katex".
+## Site Meta Settings
+[params.meta]
+description = "Software Developer personal page and blog"
+keywords = "dev,coder,python,backend,web,sass,cloud,architecture,code,snippets"
 
-## Social links
-[[params.socialIcons]]
-icon = "fa-github"
-title = "GitHub"
-url = "https://github.com/tsunday/"
+## Social Accounts
+[params.social]
+github = "tsunday"
+instagram = "tomeknb"
+linkedin = "niedzielabrach"
+twitter = "tnbcode"
+email = "tomasz@tnbcode.pl"
 
-[[params.socialIcons]]
-icon = "fa-instagram"
-title = "instagram"
-url = "https://www.instagram.com/tomeknb/"
+## Extras
+[params.extra]
+copyright = "© 2020. Tomasz Niedziela-Brach. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
+poweredby = false
+highlightjs = true
+socialmarkup = true
+toc = true
+displayrssicon = false
 
-[[params.socialIcons]]
-icon = "fa-linkedin"
-title = "Linkedin"
-url = "https://www.linkedin.com/in/niedzielabrach/"
-
-[[params.socialIcons]]
-icon = "fa-envelope"
-title = "e-mail"
-url = "mailto:tomasz@tnbcode.pl"
-
-## Menu items
-
-[menu]
-
-  [[menu.main]]
-  name = "Home"
-  identifier = "home"
-  weight = 100
-  url = "/"
-
-  [[menu.main]]
-  name = "Posts"
-  weight = 200
-  identifier = "posts"
-  url = "/post/"
-
-  [[menu.main]]
-  name = "About"
-  weight = 300
-  identifier = "about"
-  url = "/about/"
+## Main Menu
+[[menu.main]]
+    name = "blog"
+    weight = 100
+    identifier = "blog"
+    url = "/blog/"
+[[menu.main]]
+    name = "about"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
+[[menu.main]]
+    name = "contact"
+    identifier = "contact"
+    weight = 300
+    url = "/contact/"
