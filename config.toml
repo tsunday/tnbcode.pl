@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-baseurl = "https://tnbcode.pl/"
+baseurl = "http://tnbcode.pl/"
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
@@ -22,8 +22,8 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "Tomasz Niedziela-Brach"
-intro = "Programmer"
-description = "Working remotely as a senior software developer @Idego. Writing about coding. Coding real-world solutions."
+intro = "Backend Python Developer"
+description = "Software engineer creating server-side web apps and services. Passionate Python user. Writing about coding | coding real-world solutions."
 authorimage = "tnb-300x300.jpg"
 dateformat = "Jan 2, 2006"
 
