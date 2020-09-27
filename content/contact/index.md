@@ -14,7 +14,7 @@ Email 📩 <tomasz@tnbcode.pl>
 
 GitHub ⌨️ [@tsunday](https://github.com/tsunday/)
 
-Instagram 📷 [@tomeknb](https://www.instagram.com/tomeknb/)
+Instagram 📷 [@tnbcode](https://www.instagram.com/tnbcode/)
 
 LinkedIn 👔 [@niedzielabrach](https://www.linkedin.com/in/niedzielabrach/)
 
