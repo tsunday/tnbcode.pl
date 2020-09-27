@@ -10,8 +10,8 @@ title = "About"
 showpagemeta = false
 +++
 
-Hi! It's nice to meet you 😊
-----
+# Hi! It's nice to meet you 👋
+-----
 
 My name is Tomasz and I'm a programmer with 7+ years of experience. I was battle tested both in frontend and backend web development. Here are some short bulletpoints about me:
 
