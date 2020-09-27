@@ -22,7 +22,7 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "Tomasz Niedziela-Brach"
-intro = "Backend Python Developer"
+intro = "Python Dev's Blog"
 description = "Software engineer creating server-side web apps and services. Passionate Python user. Writing about coding | coding real-world solutions."
 authorimage = "tnb-300x300.jpg"
 dateformat = "Jan 2, 2006"
