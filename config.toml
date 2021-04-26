@@ -43,7 +43,7 @@ stackoverflow = "7513751"
 
 ## Extras
 [params.extra]
-copyright = "© 2020. Tomasz Niedziela-Brach. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
+copyright = "© 2021. Tomasz Niedziela-Brach. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
 poweredby = false
 highlightjs = true
 socialmarkup = true
