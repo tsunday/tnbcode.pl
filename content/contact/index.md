@@ -14,11 +14,11 @@ Email 📩 <tomasz@tnbcode.pl>
 
 GitHub ⌨️ [@tsunday](https://github.com/tsunday/)
 
-Instagram 📷 [@tomeknb](https://www.instagram.com/tomeknb/)
+Instagram 📷 [@tomekniedziela](https://www.instagram.com/tomekniedziela/)
 
 LinkedIn 👔 [@niedzielabrach](https://www.linkedin.com/in/niedzielabrach/)
 
-Twitter 📢 [@tnbcode](https://twitter.com/tnbcode)
+Twitter 📢 [@tnbcode](https://twitter.com/tomekniedziela/)
 
 
 
