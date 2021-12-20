@@ -14,7 +14,7 @@ Email 📩 <tomasz@tnbcode.pl>
 
 GitHub ⌨️ [@tsunday](https://github.com/tsunday/)
 
-Instagram 📷 [@tomekniedziela](https://www.instagram.com/tomekniedziela/)
+Instagram 📷 [@tomek.niedziela](https://www.instagram.com/tomek.niedziela/)
 
 LinkedIn 👔 [@niedzielabrach](https://www.linkedin.com/in/niedzielabrach/)
 
