@@ -22,7 +22,7 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "Tomasz Niedziela-Brach"
-intro = "Software Architect"
+intro = "Engineering Manager & Architect"
 description = "Designing and building server-side web apps and services. Creating clean and scalable systems. Writing about coding | coding real-world solutions."
 authorimage = "tnb-300x300.jpg"
 dateformat = "Jan 2, 2006"
