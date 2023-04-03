@@ -12,7 +12,7 @@ publishdir = "public"
 author = "Tomasz Niedziela-Brach"
 title = "Tomasz Niedziela-Brach"
 
-theme = "hugo-goa"
+theme = "PaperMod"
 
 ## Hugo Built-in Features
 # disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
